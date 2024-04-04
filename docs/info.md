@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It takes in 3 1bit wide vectors and adds them
 
 ## How to test
 
-Explain how to use your project
+Cycle all input bits and verify addition
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
